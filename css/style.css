@@ -61,7 +61,7 @@ header h1 a img {
     align-items: center;
     justify-content: center;
 
-    background-image: url(/img/slide-1.jpg);
+    background-image: url(../img/slide-1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
